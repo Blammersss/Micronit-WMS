@@ -1,0 +1,25 @@
+{
+  "id": "b0991097-5447-4d59-80a5-c37c3b9fa9b0",
+  "name": "Micronit Mobile WMS",
+  "publisher": "Blisss Software B.V.",
+  "version": "22.0.0.0",
+  "dependencies": [
+    {
+      "id": "a5727ce6-368c-49e2-84cb-1a6052f0551c",
+      "name": "Mobile WMS",
+      "publisher": "Tasklet Factory",
+      "version": "5.37.190.220"
+    }
+  ],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {"allowDebugging": true,"allowDownloadingSource": true,"includeSourceInSymbolFile": true},
+  "runtime": "11.0",
+  "features": ["NoImplicitWith", "TranslationFile"]
+}
